@@ -2,7 +2,7 @@ The purpose of this project is to reinforce concepts of class inheritance and ot
 
 Part I:
 
-    The assignment begins with drawing a UML representation of a class hierarchy that includes various transportation classes like WheeledTransportation, Train, Metro, Tram, Monowheel, Ferry, Aircraft, and World War II Airplane. The classes are interconnected based on their relationships.
+    The project begins with drawing a UML representation of a class hierarchy that includes various transportation classes like WheeledTransportation, Train, Metro, Tram, Monowheel, Ferry, Aircraft, and World War II Airplane. The classes are interconnected based on their relationships.
 
     Implementation involves writing Java code for the specified classes, organized into six packages. Each class must have three constructors (default, parameterized, and copy), accessors, mutators, toString(), and equals() methods. Objects created with concrete serial numbers require a method called getNextSerialNumber(). Appropriate access rights are to be used.
 
